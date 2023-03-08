@@ -1,0 +1,9 @@
+{
+  "name": "Web Extension",
+  "version": "0.0.1",
+  "description": "Web Extension built with Angular",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html"
+  }
+}
